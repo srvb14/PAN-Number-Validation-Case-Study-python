@@ -25,10 +25,10 @@ The project simulates a real-world data quality validation task commonly perform
 ## Dataset Description
 The dataset contains PAN number records requiring validation.
 Files Included:
-    - PAN Number Validation - Problem Statement.pdf
-    - PAN Number Validation Dataset.xlsx (Raw Data)
-    - CS_PAN_validation.ipynb (Analysis & Validation Code)
-    - CS_PAN VALIDATION REPORT.xlsx (Final Summary Output)
+- PAN Number Validation - Problem Statement.pdf
+- PAN Number Validation Dataset.xlsx (Raw Data)
+- CS_PAN_validation.ipynb (Analysis & Validation Code)
+- CS_PAN VALIDATION REPORT.xlsx (Final Summary Output)
 
 ## Key Analysis Performed
   - Identified valid vs invalid PAN numbers
